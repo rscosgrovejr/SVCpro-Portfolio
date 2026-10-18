@@ -2,6 +2,10 @@
 
 **Custom Service Management & Business Workflow Application**
 
+## Application Screenshot
+
+![SVCpro Dashboard](svcpro%20image.png)
+
 SVCpro is a business application project focused on managing service operations, organizing customer information, and improving day-to-day business workflows.
 
 ## Project Objectives
